@@ -21,6 +21,9 @@ gem 'importmap-rails'
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem 'turbo-rails'
 
+# add rack-cors
+gem 'rack-cors'
+
 # use rubocop
 gem 'rubocop', '>= 1.0', '< 2.0'
 
